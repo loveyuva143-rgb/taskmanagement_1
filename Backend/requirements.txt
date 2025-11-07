@@ -1,0 +1,14 @@
+fastapi==0.120.4
+uvicorn==0.38.0
+sqlalchemy==2.0.36
+pydantic==2.12.3
+pydantic-settings==2.7.0
+email-validator
+pandas==2.3.3
+scikit-learn==1.7.2
+numpy==2.3.4
+requests
+langchain
+ollama
+duckduckgo-search
+python-multipart==0.0.12
